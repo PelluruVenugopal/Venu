@@ -1,0 +1,28 @@
+
+  
+  <project>
+	<dependencies>
+	
+   <groupId>org.sonatype.aether</groupId>
+   <artifactId>aether-api</artifactId>
+   <version>1.7</version>
+   
+	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.20.0</version>
+</dependency>
+
+	<!-- https://mvnrepository.com/artifact/io.github.qsy7.java.modules.browser.drivers/chromedriver -->
+<dependency>
+    <groupId>io.github.qsy7.java.modules.browser.drivers</groupId>
+    <artifactId>chromedriver</artifactId>
+    <version>0.3.3</version>
+</dependency>
+
+
+
+  
+  </dependencies>
+</project>

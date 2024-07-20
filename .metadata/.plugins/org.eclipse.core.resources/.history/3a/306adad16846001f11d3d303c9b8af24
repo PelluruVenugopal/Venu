@@ -1,0 +1,23 @@
+package javaProject;
+
+import java.util.Scanner;
+
+public class Ifelse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int age;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter your age=");
+		age=sc.nextInt();
+		if(age>=20) {
+			System.out.println("you are elgible to vote");
+		}
+			
+			System.out.println("you are not elgible to vote");
+		}
+		
+
+	}
+
+
